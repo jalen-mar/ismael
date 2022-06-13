@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'com.jalen.ismael'
+version '1.0.0'
+
+
+
+repositories {
+}
+
+dependencies {
+}
